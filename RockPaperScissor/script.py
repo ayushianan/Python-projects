@@ -10,14 +10,14 @@ chosen = randint(1,3)
 
 if chosen == 1:
 	computer = 'r'
+	print('0')
 
 elif chosen == 2:
 	computer = 'p'
-
+	print('__')
 elif chosen == 3:
 	computer = 's'
-
-print(computer)
+	print('>8')
 
 #result
 
